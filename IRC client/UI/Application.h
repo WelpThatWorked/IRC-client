@@ -106,6 +106,7 @@ namespace UI {
 			}
 		}
 
+		//Change max Framerate. Default is 30.
 		void SetFramerateLimit(unsigned int fps) {
 			max_framerate = fps;
 			min_frametime = 1000 / fps;

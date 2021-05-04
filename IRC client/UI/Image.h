@@ -1,7 +1,8 @@
 #pragma once
 #include <SDL.h>
+#include <cmath>
+#include "Functions.h"
 #include "Element.h"
-#include <optional>
 
 namespace UI {
 
